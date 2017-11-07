@@ -1,3 +1,5 @@
+% OK
+
 /**
  * A graph is a list of pairs - the connected nodes
  * [[5,4], [4, 2], [2, 4], [2, 1], [1, 3], [3, 4], [3, 5]]
