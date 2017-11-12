@@ -1,4 +1,4 @@
-%OK
+% OK
 
 % sort the following list
 test(Result):-
